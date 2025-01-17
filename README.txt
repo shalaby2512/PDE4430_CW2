@@ -2,13 +2,12 @@ This project involves designing and simulating a mobile robot capable of moving 
 
 Repository Details
 
-Git Repository Link: [Insert Repository Link]
+Git Repository Link: https://github.com/shalaby2512/PDE4430_CW2
 
 The repository includes:
 
 URDF files for the robot model.
 
-Video demonstration of the project.
 
 Getting Started
 
@@ -27,7 +26,7 @@ Git
 Python 3
 
 Cloning the Repository
-git clone [Insert Repository Link]
+git clone https://github.com/shalaby2512/PDE4430_CW2
 cd [repository-folder]
 
 Installation
